@@ -1,0 +1,10 @@
+Output: PCB ASCII (PCAD)
+Type  : Exporter Wrapper
+From  : PCB Document [pokey.PcbDoc]
+   Generated File[PCB ASCII (PCAD) (pokey v1.0-A01).PCB]
+
+
+Files Generated   : 1
+Documents Printed : 0
+
+Finished Output Generation At 6:24:34 PM On 6/29/2019

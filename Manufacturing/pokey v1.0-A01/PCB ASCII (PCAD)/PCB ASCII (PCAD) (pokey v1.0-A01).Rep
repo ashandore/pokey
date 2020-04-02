@@ -1,0 +1,85 @@
+Export log for : PCB ASCII (PCAD) (pokey v1.0-A01).Rep
+AddingPadStyle (Default)
+AddingPadStyle P:EX175Y175D951
+AddingPadStyle P:EX59Y59D511
+AddingPadStyle P:EX63Y63D511
+AddingPadStyle EF28X82TOP1
+AddingPadStyle EF51X134TOP1
+AddingPadStyle EF24X24TOP1
+AddingPadStyle EF35X37TOP1
+AddingPadStyle EF35X37TOP2
+AddingPadStyle EF39X43TOP1
+AddingPadStyle EF98X39TOP1
+AddingPadStyle EF14X67TOP1
+AddingPadStyle EF18X55TOP1
+AddingPadStyle P:EX79Y79D751
+AddingPadStyle P:EX138Y138D1341
+AddingPadStyle P:EX55Y55D471
+AddingPadStyle P:EX71Y71D471
+AddingPadStyle EF49X79TOP1
+AddingPadStyle EF71X28TOP1
+Adding ViaStyle (Default)
+Adding ViaStyle V:EX20Y20D101
+Adding TextStyle (Default)
+Adding TextStyle T:H15W5
+Adding TextStyle T:H60W10
+Adding PatternDef POKEY_MOD_R1_1
+Adding PatternDef 0402_1
+Adding PatternDef SOT23_1
+Adding PatternDef 1608[0603]_1
+Adding PatternDef 1608[0603]_2
+Adding PatternDef 1210_1
+Adding PatternDef 0402_2
+Adding PatternDef 0402_3
+Adding PatternDef 0402_4
+Adding PatternDef 0402_5
+Adding PatternDef TSSOP16_N_1
+Adding PatternDef TSSOP16_N_2
+Adding PatternDef TSOP65P640X120-14N_1
+Adding PatternDef TSOP65P640X120-14N_2
+Adding PatternDef PG1350_1
+Adding PatternDef PG1350_2
+Adding PatternDef PG1350_3
+Adding PatternDef PG1350_4
+Adding PatternDef SOD-80_1
+Adding PatternDef SOD-80_2
+Adding PatternDef SOD-80_3
+Adding PatternDef SOD-80_4
+Adding PatternDef BL-HRGB32M-TRB_1
+Adding PatternDef BL-HRGB32M-TRB_2
+Adding PatternDef BL-HRGB32M-TRB_3
+Adding PatternDef BL-HRGB32M-TRB_4
+Adding CompDef POKEY_MOD_R1_1
+Adding CompDef 0402_1
+Adding CompDef SOT23_1
+Adding CompDef 1608[0603]_1
+Adding CompDef 1608[0603]_2
+Adding CompDef 1210_1
+Adding CompDef 0402_2
+Adding CompDef 0402_3
+Adding CompDef 0402_4
+Adding CompDef 0402_5
+Adding CompDef TSSOP16_N_1
+Adding CompDef TSSOP16_N_2
+Adding CompDef TSOP65P640X120-14N_1
+Adding CompDef TSOP65P640X120-14N_2
+Adding CompDef PG1350_1
+Adding CompDef PG1350_2
+Adding CompDef PG1350_3
+Adding CompDef PG1350_4
+Adding CompDef SOD-80_1
+Adding CompDef SOD-80_2
+Adding CompDef SOD-80_3
+Adding CompDef SOD-80_4
+Adding CompDef BL-HRGB32M-TRB_1
+Adding CompDef BL-HRGB32M-TRB_2
+Adding CompDef BL-HRGB32M-TRB_3
+Adding CompDef BL-HRGB32M-TRB_4
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Unexpected Free Text Object Found On Layer BottomOverlay.   This may cause problems in PCAD PCB
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+      Warning: Polygon has been imported as unpoured.  It will need to be repoured in PCAD
+ 
+EndLog

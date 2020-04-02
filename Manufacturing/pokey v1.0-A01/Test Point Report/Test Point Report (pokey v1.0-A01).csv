@@ -1,0 +1,4 @@
+"Net","Name","X Coord","Y Coord","Side","Hole Size","Type"
+"NetQ1.2_3","Q1.2-3","5379.902mil","3591.242mil","Bottom","0mil","Surface mount"
+"GND","Q1.2-2","5305.098mil","3591.242mil","Bottom","0mil","Surface mount"
+"NetD1.3.85_4","Q1.2-1","5342.5mil","3683.762mil","Bottom","0mil","Surface mount"
